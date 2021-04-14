@@ -1,0 +1,25 @@
+body {
+    font-family: 'DotGothic16', sans-serif;
+    margin: auto 30px;
+    color: rgb(151, 44, 44);
+}
+
+ul{
+    margin: 0;
+}
+
+li{
+    padding: 5px;
+}
+
+#todo-list-container{
+    margin-top: 20px;
+}
+
+#completed-list{
+    list-style-type: none;
+}
+
+#completed-list li{
+    text-decoration: line-through;
+}
